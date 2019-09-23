@@ -32,6 +32,7 @@
 </ul>
 
 #### References
+<a href="https://www.atlassian.com/git/tutorials/install-git">Add Username Password</a>
 <a href="https://www.youtube.com/watch?v=kVow5q53WG8">Quick Start GitHub</a><br />
 <a href="https://www.youtube.com/watch?v=X9-iaXfKY5g">Managing Branches in VS Code</a><br />
 <a href="https://www.youtube.com/watch?v=e3bjQX9jIBk">What is GitHub PULL request</a>
